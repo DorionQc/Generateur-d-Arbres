@@ -1,0 +1,8 @@
+D:\Random shit\TreeGenerator\TreeGenerator\TreeGenerator\bin\Release\TreeGenerator.exe.config
+D:\Random shit\TreeGenerator\TreeGenerator\TreeGenerator\bin\Release\TreeGenerator.exe
+D:\Random shit\TreeGenerator\TreeGenerator\TreeGenerator\bin\Release\TreeGenerator.pdb
+D:\Random shit\TreeGenerator\TreeGenerator\TreeGenerator\obj\Release\TreeGenerator.Form1.resources
+D:\Random shit\TreeGenerator\TreeGenerator\TreeGenerator\obj\Release\TreeGenerator.Properties.Resources.resources
+D:\Random shit\TreeGenerator\TreeGenerator\TreeGenerator\obj\Release\TreeGenerator.csproj.GenerateResource.Cache
+D:\Random shit\TreeGenerator\TreeGenerator\TreeGenerator\obj\Release\TreeGenerator.exe
+D:\Random shit\TreeGenerator\TreeGenerator\TreeGenerator\obj\Release\TreeGenerator.pdb
